@@ -5,8 +5,9 @@ An implementation of a CRUD WinForms Application using C++ and MySQL
 
 ## **First steps to run the application**
 
-Assuming you already have MySql and the necessary components 
-(like the c++ connector) installed
+Assuming you already have Visual Studio & MySql (and it's necessary components, like the c++ connector) installed
+![Screenshot (72)](https://user-images.githubusercontent.com/110704998/227754806-068a033b-37f0-4975-993d-76462169653e.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/110704998/227754807-511ac0e6-d904-4033-bf86-cfb3fd202f8b.png)
 
 
 **_1. Create the Database_**
