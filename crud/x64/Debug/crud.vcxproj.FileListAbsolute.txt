@@ -1,0 +1,17 @@
+C:\Users\Martinez\Desktop\crud\x64\Debug\crud.vcxproj.AssemblyReference.cache
+C:\Users\Martinez\Desktop\crud\x64\Debug\crud.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Martinez\Desktop\crud\x64\Debug\crud.exe.config
+C:\Users\Martinez\Desktop\crud\x64\Debug\crud.Form1.resources
+C:\Users\Martinez\Desktop\crud\x64\Debug\crud.vcxproj.GenerateResource.cache
+C:\Users\Martinez\Desktop\crud\x64\Debug\crud.vcxproj.CopyComplete
+C:\Users\Martinez\Desktop\crud\x64\Debug\crud.exe
+C:\Users\Martinez\Desktop\crud\x64\Debug\MySql.Data.dll
+C:\Users\Martinez\Desktop\crud\x64\Debug\Google.Protobuf.dll
+C:\Users\Martinez\Desktop\crud\x64\Debug\ZstdNet.dll
+C:\Users\Martinez\Desktop\crud\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Martinez\Desktop\crud\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\Martinez\Desktop\crud\x64\Debug\System.Memory.dll
+C:\Users\Martinez\Desktop\crud\x64\Debug\System.Buffers.dll
+C:\Users\Martinez\Desktop\crud\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\Martinez\Desktop\crud\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\Martinez\Desktop\crud\x64\Debug\MySql.Data.xml
